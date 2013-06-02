@@ -9,14 +9,19 @@
  * ISBN-13: 978-0984782802
 */
 
-/* This is one of the solution set to CareerCup 150 problems.
+
+Good example for each problem description:
+
+/* This is one of the solution set to CareerCup 150 Problems.
  * 
- * Problem 2.7
+ * Problem ID: 	XX.YY
  *
- * Method: Get the middle of the list, reverse the second half,
- * compare the first and the second half.
+ * Method #1: 	Get the middle of the list, reverse the second half,
+ * 		compare the first and the second half.
+ * Method #2:	....
  *
- * Author: Hu Kun (Kimurate)
- * Date: 03/03/2013
+ * Author: Leqiao Peng
+ * Date: 
+ *
  * Compile command: gcc-4.7 2.7.c -std=c99
 */
