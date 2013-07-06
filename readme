@@ -12,7 +12,8 @@
 
 Good example for each problem description:
 
-/* This is one of the solution set to CareerCup 150 Problems.
+/* 
+ * This is one of the solution set to CareerCup 150 Problems.
  * 
  * Problem ID: 	XX.YY
  *
@@ -20,8 +21,8 @@ Good example for each problem description:
  * 		compare the first and the second half.
  * Method #2:	....
  *
- * Author: Leqiao Peng
- * Date: 
+ * Author: ABCDEFG
+ * Date:   dd-mm-yyyy 
  *
  * Compile command: gcc-4.7 2.7.c -std=c99
 */
