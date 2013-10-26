@@ -1,0 +1,17 @@
+* tasks with "Org-Mode"
+** DONE Install recent org-mode from git source
+** TODO learn to use org-mode
+   start with tutorial from
+   [[http://www.yifeiyang.net/emacs/org-mode-tutorial.html][best for beginners(chinese)]]
+   
+*** DONE basic org file structure
+*** DONE using hot keys (promote / demote tree or headline)
+*** DONE inert and open links
+*** TODO use agenda and global TODO list
+
+
+
+* Programming
+** TODO finish data structures with C
+** TODO finish data structures with C++
+
